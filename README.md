@@ -20,7 +20,7 @@
 ## 🔨 Features
 
 - [X] Create user
-- [X] Sending email when creating the user
+- [X] Sending email when creating the user (MailTrapProvider)
 - [X] Storage user on memory
 
 ## 🚀 Future Features to Implement
