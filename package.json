@@ -1,0 +1,15 @@
+{
+  "name": "SOLID",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JoaoGomes5/SOLID.git",
+  "author": "Joao Gomes <joaopfg.2002@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
+  }
+}
